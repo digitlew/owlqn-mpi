@@ -11,7 +11,7 @@ start command:
     -iters: num of iterator; 
     -feats: num of feature; 
 
-  mpirun -n 3 -f slaves.txt ./owlqn -bfgsm=10 -file="xxxx" -c1=0.01 -c2=0.0 -iters=80 -feats=685569
+  mpirun -n 3 -f slaves.txt ./owlqn -bfgsm=xxx -file="xxxx" -c1=xxx -c2=0.0 -iters=xxx -feats=xxxxx
 
 result:
 
